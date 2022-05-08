@@ -94,6 +94,7 @@
             <!-- <label for="name" class="control-label">Services:</label> -->
          </div>
             <div class="form-group"><input class="form-control" type="phone" name="phone" placeholder="Phone number"></div>
+		      <div class="form-group"><input class="form-control" type="text" name="message" placeholder="Enter Your Message Here"></div>
             
             <div class="form-group"><button class="btn btn-warning btn-block" type="submit">Send</button></div>
             <br>
