@@ -145,8 +145,8 @@ you are enquiring M/S Dhanvipath Consultancy Private Limited for required Busine
  3.Email
  <br>
  Kindly Note that this authorization is valid for 6 months from date of your enquiry as per Regulations. For any clarifications you
- may contact us at 08068694310. You can also withdraw your consent on this phone whenever you wish.
- We value Your Association with us and shall do our best to help you out in your current interest.
+ may contact us at 08068694310. You may withdraw your consent on this phone whenever you wish.
+ We value your association with us and shall do our best to help you out in your current interest.
 
 
 
